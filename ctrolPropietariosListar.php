@@ -7,7 +7,7 @@
 	class Ctrl_Propietarios{
 		private $modelUser;
 
-
+xz<asas
 
 	}
 ?>
