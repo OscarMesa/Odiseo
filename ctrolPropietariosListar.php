@@ -1,3 +1,4 @@
+
 <?php
 	include ('../Modelo/generica/cls_db.php');
 	include ('../Modelo/negocio/clsPropietarios.php');
@@ -8,10 +9,10 @@
 		private $modelUser;
 
 xz<asas
+hola esta es una prueba desde vi
 
 	}
 ?>
-
 
 
 
