@@ -8,11 +8,6 @@
 		private $modelUser;
 
 
-		public function __construct(){
-			$this->modelUser = new clsPropietarios();
-		}
-
-
 
 	}
 ?>
